@@ -1,4 +1,4 @@
-👋 Olá! Sou o Kauan.
+👋 Olá! Sou o Kauan Gabriel.
 
 Desenvolvedor focado em criar aplicações web e mobile eficientes usando React, Next.js e React Native. Gosto de resolver problemas reais de ponta a ponta, desde a modelagem do banco de dados com Supabase/PostgreSQL até interfaces limpas e responsivas.
 

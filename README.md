@@ -4,7 +4,6 @@ Desenvolvedor e estudante de Sistema de Informação focado em criar aplicaçõe
 
 Projetos de Destaque:
 - **Plataforma Descubra (Web):** Painel administrativo para acompanhamento de jovens em vulnerabilidade social, integrando fila inteligente de risco social e cruzamento automático de vagas.
-- **Descubra Jovem (Mobile):** Aplicativo móvel para que os jovens acompanhem candidaturas, atualizem seu perfil socioeconômico e vejam recomendações de vagas.
 - **VidaCaravana (Web):** Sistema para organizar e agendar transporte gratuito (caravanas) de doadores de sangue voluntários até hemocentros parceiros.
 
 Tech Stack: React, Next.js, React Native, Expo, Tailwind CSS, Supabase, PostgreSQL, TypeScript.
